@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_2\\YazOkuluDersler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F85DF58-C34B-454F-BF74-9A8503996492}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\emirh\\onedrive\\masa\u00FCst\u00FC\\projects\\mvc_boost\\mvckamp_2\\yazokuludersler\\dataaccesslayer\\dalders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F85DF58-C34B-454F-BF74-9A8503996492}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dalders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB478AF1-4EEA-44D0-93CA-E233DE870CBA}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\users\\emirh\\onedrive\\masa\u00FCst\u00FC\\projects\\mvc_boost\\mvckamp_2\\yazokuludersler\\businesslogiclayer\\bllders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB478AF1-4EEA-44D0-93CA-E233DE870CBA}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\bllders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9252E392-4288-4E0C-B536-5DA8C7F8CA1B}|YazOkuluDersler\\YazOkuluDersler.csproj|c:\\users\\emirh\\onedrive\\masa\u00FCst\u00FC\\projects\\mvc_boost\\mvckamp_2\\yazokuludersler\\yazokuludersler\\dersler.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9252E392-4288-4E0C-B536-5DA8C7F8CA1B}|YazOkuluDersler\\YazOkuluDersler.csproj|solutionrelative:yazokuludersler\\dersler.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9252E392-4288-4E0C-B536-5DA8C7F8CA1B}|YazOkuluDersler\\YazOkuluDersler.csproj|c:\\users\\emirh\\onedrive\\masa\u00FCst\u00FC\\projects\\mvc_boost\\mvckamp_2\\yazokuludersler\\yazokuludersler\\dersler.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9252E392-4288-4E0C-B536-5DA8C7F8CA1B}|YazOkuluDersler\\YazOkuluDersler.csproj|solutionrelative:yazokuludersler\\dersler.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F85DF58-C34B-454F-BF74-9A8503996492}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\emirh\\onedrive\\masa\u00FCst\u00FC\\projects\\mvc_boost\\mvckamp_2\\yazokuludersler\\dataaccesslayer\\dalogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F85DF58-C34B-454F-BF74-9A8503996492}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dalogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dersler.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_2\\YazOkuluDersler\\YazOkuluDersler\\Dersler.aspx.cs",
+              "RelativeDocumentMoniker": "YazOkuluDersler\\Dersler.aspx.cs",
+              "ToolTip": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_2\\YazOkuluDersler\\YazOkuluDersler\\Dersler.aspx.cs",
+              "RelativeToolTip": "YazOkuluDersler\\Dersler.aspx.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAApwB8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T20:23:56.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dersler.aspx",
+              "DocumentMoniker": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_2\\YazOkuluDersler\\YazOkuluDersler\\Dersler.aspx",
+              "RelativeDocumentMoniker": "YazOkuluDersler\\Dersler.aspx",
+              "ToolTip": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_2\\YazOkuluDersler\\YazOkuluDersler\\Dersler.aspx",
+              "RelativeToolTip": "YazOkuluDersler\\Dersler.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-22T20:23:15.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BLLDers.cs",
+              "DocumentMoniker": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_2\\YazOkuluDersler\\BusinessLogicLayer\\BLLDers.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\BLLDers.cs",
+              "ToolTip": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_2\\YazOkuluDersler\\BusinessLogicLayer\\BLLDers.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\BLLDers.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAhwBUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T20:16:33.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DALOgrenci.cs",
+              "DocumentMoniker": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_2\\YazOkuluDersler\\DataAccessLayer\\DALOgrenci.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DALOgrenci.cs",
+              "ToolTip": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_2\\YazOkuluDersler\\DataAccessLayer\\DALOgrenci.cs",
+              "RelativeToolTip": "DataAccessLayer\\DALOgrenci.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T20:12:24.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DALDers.cs",
+              "DocumentMoniker": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_2\\YazOkuluDersler\\DataAccessLayer\\DALDers.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DALDers.cs",
+              "ToolTip": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_2\\YazOkuluDersler\\DataAccessLayer\\DALDers.cs",
+              "RelativeToolTip": "DataAccessLayer\\DALDers.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAApwB0AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T20:10:45.746Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

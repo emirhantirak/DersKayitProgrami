@@ -1,0 +1,9 @@
+C:\Users\emirh\OneDrive\Masaüstü\projects\MVC_Boost\MvcKamp_2\YazOkuluDersler\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\emirh\OneDrive\Masaüstü\projects\MVC_Boost\MvcKamp_2\YazOkuluDersler\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\emirh\OneDrive\Masaüstü\projects\MVC_Boost\MvcKamp_2\YazOkuluDersler\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\emirh\OneDrive\Masaüstü\projects\MVC_Boost\MvcKamp_2\YazOkuluDersler\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\emirh\OneDrive\Masaüstü\projects\MVC_Boost\MvcKamp_2\YazOkuluDersler\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\emirh\OneDrive\Masaüstü\projects\MVC_Boost\MvcKamp_2\YazOkuluDersler\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\emirh\OneDrive\Masaüstü\projects\MVC_Boost\MvcKamp_2\YazOkuluDersler\DataAccessLayer\obj\Debug\DataAcce.E67BD773.Up2Date
+C:\Users\emirh\OneDrive\Masaüstü\projects\MVC_Boost\MvcKamp_2\YazOkuluDersler\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\emirh\OneDrive\Masaüstü\projects\MVC_Boost\MvcKamp_2\YazOkuluDersler\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

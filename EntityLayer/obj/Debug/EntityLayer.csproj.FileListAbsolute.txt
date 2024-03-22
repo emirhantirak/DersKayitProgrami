@@ -1,0 +1,6 @@
+C:\Users\emirh\OneDrive\Masaüstü\projects\MVC_Boost\MvcKamp_2\YazOkuluDersler\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\emirh\OneDrive\Masaüstü\projects\MVC_Boost\MvcKamp_2\YazOkuluDersler\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\emirh\OneDrive\Masaüstü\projects\MVC_Boost\MvcKamp_2\YazOkuluDersler\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\emirh\OneDrive\Masaüstü\projects\MVC_Boost\MvcKamp_2\YazOkuluDersler\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\emirh\OneDrive\Masaüstü\projects\MVC_Boost\MvcKamp_2\YazOkuluDersler\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\emirh\OneDrive\Masaüstü\projects\MVC_Boost\MvcKamp_2\YazOkuluDersler\EntityLayer\obj\Debug\EntityLayer.pdb
